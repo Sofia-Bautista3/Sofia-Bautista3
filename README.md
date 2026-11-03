@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Soy economista y cuento con competencias clave
 
 ## 📂 Proyectos destacados
 
-* **1. Gestión de Cartera Crediticia (MySQL):**
+**1. Gestión de Cartera Crediticia (MySQL):**
   
 Diseño de una solución integral de base de datos para la gestión de cartera crediticia, aplicando vistas, triggers y funciones para la automatización y auditoría de morosidad.
 
@@ -20,7 +20,7 @@ Diseño de una solución integral de base de datos para la gestión de cartera c
 
 [Ver proyecto](https://github.com/Sofia-Bautista3/Gestion_Cartera_Crediticia_SQL)
 
-* **2. Sistema de Análisis Comercial (Python):**
+**2. Sistema de Análisis Comercial (Python):**
 
 Sanea y unifica información comercial dispersa para automatizar el cálculo de KPIs, la medición de cumplimiento de metas y la generación de reportes ejecutivos.
 
