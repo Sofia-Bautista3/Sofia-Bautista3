@@ -25,4 +25,4 @@ Sanea y unifica información comercial dispersa para automatizar el cálculo de 
 [Ver proyecto]()
 
 ## 📬 Contacto
-[perfil de LinkedIn](https://www.linkedin.com/in/laura-sofia-bautista/)|
+[Perfil de LinkedIn](https://www.linkedin.com/in/laura-sofia-bautista/)|
