@@ -18,7 +18,7 @@ Bienvenido a mi perfil de GitHub. Soy economista y cuento con competencias clave
   
 Diseño de una solución integral de base de datos para la gestión de cartera crediticia, aplicando vistas, triggers y funciones para la automatización y auditoría de morosidad.
 
-**Resultados:** La segmentación por aging permitió identificar la cantidad de prestamos en Mora Crítica (+90 días) y Mora Grave (61-90d), con un total de 1 y 2 prestamos respectivamente.
+**Resultados:**La segmentación por aging permitió identificar qué el 2% del porcentaje del saldo total se encuentra retenido en Mora Crítica (+90 días). 
 
 [Ver proyecto](https://github.com/Sofia-Bautista3/Gestion_Cartera_Crediticia_SQL)
 
