@@ -16,11 +16,15 @@ Bienvenido a mi perfil de GitHub. Soy economista y cuento con competencias clave
   
 Diseño de una solución integral de base de datos para la gestión de cartera crediticia, aplicando vistas, triggers y funciones para la automatización y auditoría de morosidad.
 
-[Ver proyecto]()
+**Resultados:** La segmentación por aging permitió identificar la cantidad de prestamos en Mora Crítica (+90 días) y Mora Grave (61-90d), con un total de 1 y 2 prestamos respectivamente.
+
+[Ver proyecto](https://github.com/Sofia-Bautista3/Gestion_Cartera_Crediticia_SQL)
 
 * **2. Sistema de Análisis Comercial (Python):**
 
-Sanea y unifica información comercial dispersa para automatizar el cálculo de KPIs, la medición de cumplimiento de metas y la generación de reportes ejecutivos.   
+Sanea y unifica información comercial dispersa para automatizar el cálculo de KPIs, la medición de cumplimiento de metas y la generación de reportes ejecutivos.
+
+**Resultados:** Seis archivos fuente con información de ventas, sucursales, vendedores, metas, clientes y productos consolidado en una sola base de 30 columnas y 1800 resgistros
 
 [Ver proyecto](https://github.com/Sofia-Bautista3/Analisis_Comercial_Python)
 
