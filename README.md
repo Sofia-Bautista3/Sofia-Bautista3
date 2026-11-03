@@ -22,7 +22,7 @@ Diseño de una solución integral de base de datos para la gestión de cartera c
 
 Sanea y unifica información comercial dispersa para automatizar el cálculo de KPIs, la medición de cumplimiento de metas y la generación de reportes ejecutivos.   
 
-[Ver proyecto]()
+[Ver proyecto](https://github.com/Sofia-Bautista3/Analisis_Comercial_Python)
 
 ## 📬 Contacto
 [Perfil de LinkedIn](https://www.linkedin.com/in/laura-sofia-bautista/)|
