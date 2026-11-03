@@ -2,7 +2,6 @@
 
 **| Economista | Analista de datos | Excel  ·  SQL ·  Python  ·  Power BI**
 
-
 Bienvenido a mi perfil de GitHub. Soy economista y cuento con competencias clave en depuración, modelado de datos y desarrollo de análisis cuantitativos, reportes y visualizaciones con Excel y SQL avanzado, Power BI, y Python. Actualmente continuo fortaleciendo mis conocimientos de Power BI y Python a través del programa IPS DATAX.
 
 ##
@@ -12,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy economista y cuento con competencias clave
 * **Bases de Datos** SQL
 * **Programacion:** Python - pandas
 
-
+##
 ## 📂 Proyectos destacados
 
 **1. Gestión de Cartera Crediticia (MySQL):**
@@ -31,6 +30,6 @@ Sanea y unifica información comercial dispersa para automatizar el cálculo de 
 
 [Ver proyecto](https://github.com/Sofia-Bautista3/Analisis_Comercial_Python)
 
-
+##
 ## 📬 Contacto
 [Perfil de LinkedIn](https://www.linkedin.com/in/laura-sofia-bautista/)|
